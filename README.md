@@ -1,4 +1,4 @@
-# article-recommender
+# Article Recommender
 
 The goal of this project is to learn how to make a simple article recommendation engine using a semi-recent advance in natural language processing called word2vec (or just word vectors). In particular, I've used a Stanford's GloVe vectors trained on a dump of Wikipedia.
 
